@@ -1,0 +1,24 @@
+h1{
+    color: #FFDC62;
+    font-size: 6em;
+}
+
+.logo{
+width: 30%;
+}
+
+.image{
+    width: 60%;
+}
+
+.white{
+    color: white;
+}
+
+
+@media all and (max-device-width: 1024px) {
+    .logo{
+        width: 100%;
+    }
+
+}
